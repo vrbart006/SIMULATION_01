@@ -1,5 +1,5 @@
 # PROJETO EMPRESARIAL
-Descrição objetiva do produto qqqqqqestá sendo utilizado
+Descrição objetiva do produto que está sendo utilizado
 
 ## PROBLEMA
 Aqui especifica o problema ou a situação que motiva a criação do produto
